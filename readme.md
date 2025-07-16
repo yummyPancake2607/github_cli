@@ -1,4 +1,4 @@
-````markdown
+
 # GitHub Activity CLI
 
 A simple command-line Python tool to fetch and display the recent public activity of any GitHub user — using only Python’s built-in libraries (no external packages).
