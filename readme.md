@@ -84,6 +84,8 @@ Recent Public Activity:
 ## 🌱 Author
 
 **Lakshit Verma**
+
+Project URL https://roadmap.sh/projects/github-user-activity
 Beginner Python Developer
 Learning APIs and building CLI tools through projects like this one!
 
